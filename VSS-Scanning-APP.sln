@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSS-Scanning-APP", "VSS-Scanning-APP\VSS-Scanning-APP.csproj", "{7806B953-2F55-44C0-9D37-58B5937FA11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7806B953-2F55-44C0-9D37-58B5937FA11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806B953-2F55-44C0-9D37-58B5937FA11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806B953-2F55-44C0-9D37-58B5937FA11E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7806B953-2F55-44C0-9D37-58B5937FA11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806B953-2F55-44C0-9D37-58B5937FA11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7806B953-2F55-44C0-9D37-58B5937FA11E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD78521B-5255-478C-8E59-541E03A3CD14}
+	EndGlobalSection
+EndGlobal
